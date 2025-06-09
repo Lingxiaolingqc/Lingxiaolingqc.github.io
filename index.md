@@ -1,1 +1,2 @@
-<img src="picturing.jpg" alt="Picturing" wid=200\>
+This is my fursona.
+<img src="picturing.jpg" alt="Picturing" wid=100\>
