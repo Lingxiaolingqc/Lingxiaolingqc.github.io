@@ -1,1 +1,1 @@
-<img src="picturing.jpg" alt="Picturing" wid=300\>
+<img src="picturing.jpg" alt="Picturing" wid=200\>
